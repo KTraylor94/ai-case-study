@@ -102,10 +102,13 @@ Enhance Research and Development Partnerships:
 Collaborate with academic and research institutions to stay at the forefront of AI innovations in healthcare.
 By focusing on these areas, Enlitic can leverage its existing strengths while expanding its product offerings to meet evolving market demands and maintain its competitive edge.
 
+
 🌐 Sources
-stackoverflow.com - How to make Visual Studio Code check entire project for errors
-code.visualstudio.com - Debugging in Visual Studio Code
-code.visualstudio.com - Strict null checking the Visual Studio Code codebase
-quora.com - In Visual Studio Code, how do you deal with a 'no file or directory' error when trying to load up a project
-code.visualstudio.com - Tasks in Visual Studio Code
-community.dynamics.com - New Issue Pushing AL Extension Updates via VS Code
+enlitic.com - Enlitic closes $25 million in series B-1 funding round
+enlitic.com - Enlitic | Data Analytics for Healthcare
+crunchbase.com - Enlitic - Crunchbase Company Profile & Funding
+tracxn.com - Enlitic - Company Profile
+afr.com - AI healthcare company eyes $160m from cleaning up
+equityzen.com - Invest In Enlitic Stock | Buy Pre-IPO Shares
+
+
